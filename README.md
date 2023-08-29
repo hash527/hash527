@@ -4,9 +4,11 @@
   <a href="https://www.linkedin.com/in/harsha-vardhan-reddy-duvvuru-2051b8135/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <div id="badges>
   <a href="https://twitter.com/HarshaV72036611">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=hash527&style=flat-square&color=blue" alt=""/>
   </div>
@@ -30,7 +32,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-reddy-duvvuru-2051b8135/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-reddy-duvvuru-2051b8135/)
 
 ---
 
